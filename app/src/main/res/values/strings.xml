@@ -1,4 +1,15 @@
 <resources>
     <string name="app_name">Zadanie 2 – kalkulator na zagnieżdżonych układach, linearlayout</string>
     <string name="kalkulator">KALKULATOR</string>
+
+
+<buttons>
+    <string name="dodawanie">+</string>
+    <string name="odejmowanie">-</string>
+    <string name="mnozenie">*</string>
+    <string name="dzielenie">÷</string>
+</buttons>
+
+
+
 </resources>
