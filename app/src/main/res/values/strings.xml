@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Zadanie 2 – kalkulator na zagnieżdżonych układach, linearlayout</string>
+    <string name="kalkulator">KALKULATOR</string>
 </resources>
